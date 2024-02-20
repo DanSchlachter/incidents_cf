@@ -62,7 +62,7 @@
                     "users": {
                         "alice": {
                           "policies" : [
-                            "cap.support (Not restricted)"
+                            "cap.support"
                           ]
                         },
                         "bob": {
